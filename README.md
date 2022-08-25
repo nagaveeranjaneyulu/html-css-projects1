@@ -1,5 +1,5 @@
 # htmlcssprojects1
-(HTML)Advanced Technologies Cover Page-1 
+1.(HTML)Advanced Technologies Cover Page-1 
 
 <!DOCTYPE html> 
 
@@ -147,7 +147,7 @@
 
  
 
-Celebrate Diwali Project HTML-2 
+2.Celebrate Diwali Project HTML-2 
 
  
 
@@ -357,7 +357,7 @@ Celebrate Diwali Project CSS-1
 
  
 
-(HTML)COVID-19 Page-1 
+3.(HTML)COVID-19 Page-1 
 
 <!DOCTYPE html> 
 
@@ -709,7 +709,7 @@ Celebrate Diwali Project CSS-1
 
  
 
-(HTML)Book Store Page-2 
+4.(HTML)Book Store Page-2 
 
  
 
