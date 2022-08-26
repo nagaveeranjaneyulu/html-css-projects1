@@ -1025,7 +1025,7 @@ link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/c
 
   background-color: #1b1b1b; 
 
-  padding: 24px; 
+  padding: 24px;
 
 } 
 
