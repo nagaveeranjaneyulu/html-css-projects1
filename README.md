@@ -62,7 +62,7 @@
         />
         <div class="covid-card-text-container">
           <h1 class="covid-card-heading">
-            To prevent the spread of ...
+            To prevent the spread of ..
           </h1>
           <p class="covid-card-description">
             If you think you have been exposed to novel corona virus
