@@ -1,0 +1,144 @@
+2.#(HTML) FAVORITE STORES PAGE :
+
+<!DOCTYPE html>
+<html>
+<head>
+ <link rel="stylesheet"
+href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+crossorigin="anonymous" />
+ <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-
+DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+crossorigin="anonymous"></script>
+ <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+crossorigin="anonymous"></script>
+ <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+crossorigin="anonymous"></script>
+</head>
+<body>
+ <div class="favorite-store-page-bg">
+ <div class="d-flex flex-row">
+ <h1 class="favorite-store-page-heading"> Shop in your favorite stores </h1>
+ <img src="https://assets.ccbp.in/frontend/static-website/stores-img.png" class="favoritestore-page-image" />
+ </div>
+ </div>
+ <div class="store-with-one-click-bg">
+ <h1 class="store-with-one-click-heading"> Select your store with one click </h1>
+ <div class="d-flex flex-row">
+ <img src="https://assets.ccbp.in/frontend/static-website/amazon-logo-img.png"
+class="amazon-image" />
+ <div class="d-flex flex-column">
+ <h1 class="amazon-heading"> Amazon </h1>
+ <p class="amazon-paragraph"> online shopping free shipping & Cash on Delivery... </p>
+ </div>
+ </div>
+ <div class="d-flex flex-row">
+ <img src="https://assets.ccbp.in/frontend/static-website/ikea-logo-img.png" class="amazonimage" />
+ <div class="d-flex flex-column">
+ <h1 class="amazon-heading"> IKEA </h1>
+ <p class="amazon-paragraph"> Explore our furniture & home furnishing range. IKEA is a
+global leader... </p>
+ </div>
+ </div>
+ <div class="d-flex flex-row">
+ <img src="https://assets.ccbp.in/frontend/static-website/bewakoof-logo-img.png"
+class="amazon-image" />
+ <div class="d-flex flex-column">
+ <h1 class="amazon-heading"> Bewakoof </h1>
+ <p class="amazon-paragraph"> A Lifestyle Fashion Brand That Offers Creative and
+Distinctive Fashion ... </p>
+ </div>
+ </div>
+ <div class="d-flex flex-row">
+ <img src="https://assets.ccbp.in/frontend/static-website/flipkart-logo-img.png"
+class="amazon-image" />
+ <div class="d-flex flex-column">
+ <h1 class="amazon-heading"> Flipkart </h1>
+ <p class="amazon-paragraph"> Wide Range of Genuine products, Easy Returns,Cash on
+Delivery, Browse Now.. </p>
+ </div>
+ </div>
+ </div>
+</body>
+</html>
+
+2.#(CSS) FAVORITE STORES PAGE :
+.favorite-store-page-bg {
+ background-color: #894bca;
+ height: 50vh;
+ background-size: cover;
+}
+.favorite-store-page-heading {
+ font-size: 33px;
+ font-family: 'Bree Serif';
+ color: #ffffff;
+ padding: 20px;
+}
+.favorite-store-page-image {
+ height: 200px;
+ width: 180px;
+}
+.store-with-one-click-bg {
+ background-color: #ffffff;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+ padding: 10px;
+}
+.store-with-one-click-heading {
+ color: #f780c3;
+ font-size: 20px;
+}
+.amazon-image {
+ height: 80px;
+ width: 80px;
+ padding: 10px;
+}
+.amazon-heading {
+ color: #323f4b;
+ font-size: 23px;
+}
+.amazon-paragraph {
+ color: #7b8794;
+ font-size: 13px;
+ font-family: 'Bree Serif';
+}.favorite-store-page-bg {
+ background-color: #894bca;
+ height: 50vh;
+ background-size: cover;
+}
+.favorite-store-page-heading {
+ font-size: 33px;
+ font-family: 'Bree Serif';
+ color: #ffffff;
+ padding: 20px;
+}
+.favorite-store-page-image {
+ height: 200px;
+ width: 180px;
+}
+.store-with-one-click-bg {
+ background-color: #ffffff;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+ padding: 10px;
+}
+.store-with-one-click-heading {
+ color: #f780c3;
+ font-size: 20px;
+}
+.amazon-image {
+ height: 80px;
+ width: 80px;
+ padding: 10px;
+}
+.amazon-heading {
+ color: #323f4b;
+ font-size: 23px;
+}
+.amazon-paragraph {
+ color: #7b8794;
+ font-size: 13px;
+ font-family: 'Bree Serif';
+}
